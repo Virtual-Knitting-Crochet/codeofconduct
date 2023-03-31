@@ -1,2 +1,2 @@
-# codeofconduct
-# codeofconduct
+# Code of Conduct
+
