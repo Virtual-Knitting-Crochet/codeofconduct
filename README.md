@@ -1,6 +1,6 @@
 # Code of Conduct
 
-We aim to balance our goals of ensuring this space is safe while also not letting our group get bogged down in the endless minutae of detailed rules. The more detailed your rules are, the more work is required to argue against people who try to argue their way around them. So rather than giving specific behaviours that are forbidden, thus requiring us to make even _more_ specific rules when edge cases arise, were going to take a different aproach.
+We aim to balance our goals of ensuring this space is safe while also not letting our group get bogged down in the endless minutae of detailed rules. The more detailed your rules are, the more work is required dealing with people who try to argue their way around them. Why would we spend all our time doing that, instead of crafting? So rather than giving specific behaviours that are forbidden, thus requiring us to make even _more_ specific rules when edge cases arise, were going to take a different aproach.
 
 We will describe the kind of social space we wish to create and maintain. People who we feel are behaving in ways that are not conducive to this goal will be asked to change their behaviour. If necessary, they'll be asked to leave. The safety, comfort, and fairness of the group will always be our top priority. These guidelines are simply one tool to achieve that, not the end goal itself.
 
