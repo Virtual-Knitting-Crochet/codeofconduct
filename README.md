@@ -6,7 +6,7 @@ We will describe the kind of social space we wish to create and maintain. People
 
 - Crafting is a fundamental human activity which everyone has a right to. We've been doing this for thousands of years across the whole world, so we're _all_ new to it. Gatekeeping is not only wrong, it just doesn't make any sense.
 - We criticise products and techniques, not each other. Yarn snobbery is allowed, but without passing judgement on fellow crafters.
-- There's a place for talking about sustainability but please have a sense of proportion, and keep the topic in context of how our boarder economic system functions. Let's place the responsibility for environmental damage where it truly is.
+- There's a place for talking about sustainability but please have a sense of proportion, and keep in mind context of how our boarder economic system functions. Let's place the responsibility for environmental damage where it truly is.
 - Everyone is welcome, and this welcomeness will be actively defended on your behalf if needed. You're not just allowed to enter, you're also allowed to be safe here.
 
 ## The Paradox of Tolerance
