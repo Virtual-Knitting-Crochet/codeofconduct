@@ -30,6 +30,6 @@ The crafting community tends to skew towards white, cis, upper-middle class wome
 
 ## Covid Denialism Will Not Be Tolerated
 
-This includes stating or implying that the pandemic is over, and speaking about the pandemic in the past tense. These beliefs are currently socially dominant but are still obviously untrue, and are not up for debate. The decisions you make in these global circumstances are your own to make, but denying they exist is not okay here. This group lives firmly in our shared reality.
+This includes stating or implying that the pandemic is over, and speaking about the pandemic in the past tense. These beliefs are currently socially dominant but are still obviously untrue, and are not up for debate. The panemic isn't over, it is just no longer being mitigated or tracked. The decisions you make in these global circumstances are your own to make, but denying they exist is not okay here. This group lives firmly in our shared reality and believes in the possibility and feasibility of an equitable collective outcome for this ongoing crisis.
 
 [tolerance]: https://en.wikipedia.org/wiki/Paradox_of_tolerance#:~:text=The%20paradox%20of%20tolerance%20states,or%20destroyed%20by%20the%20intolerant.
