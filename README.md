@@ -44,7 +44,9 @@ We prioritise marginalized people’s safety over privileged people’s comfort.
 
 ## Covid Denialism
 
-Covid denialism is not allowed. This includes stating or implying that the pandemic is over, and speaking about the pandemic in the past tense. These beliefs are currently socially dominant but are still obviously untrue, and are not up for debate. The panemic isn't over, it's just no longer being mitigated or tracked. The decisions you make in these global circumstances are your own to make, but denying they exist is not okay here. This group lives firmly in our shared reality and believes in the possibility and feasibility of an equitable collective outcome for this ongoing crisis.
+Covid denialism is not allowed. **This includes stating or implying that the pandemic is over, and speaking about the pandemic in the past tense.**
+
+These beliefs are currently socially dominant but are still obviously untrue, and are not up for debate. The panemic isn't over, it's just no longer being mitigated or tracked. The decisions you make in these global circumstances are your own to make, but denying they exist is not okay here. This group lives firmly in our shared reality and believes in the possibility and feasibility of an equitable collective outcome for this ongoing crisis.
 
 ## Background Reading
 
