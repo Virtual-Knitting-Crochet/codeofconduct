@@ -8,10 +8,23 @@ We will describe the kind of social space we wish to create and maintain. People
 - We criticise products and techniques, not each other. Yarn snobbery is allowed, but without passing judgement on fellow crafters.
 - There's a place for talking about sustainability but please have a sense of proportion, and keep in mind the context of how our boarder economic system functions. Let's place the responsibility for environmental damage where it truly is.
 - Everyone is welcome, and this welcomeness will be actively defended on your behalf if needed. You're not just allowed to enter, you're also allowed to be safe here.
+- You're allowed to use a pseudonym
+- All aspects of participation are voluntary: You're allowed to keep your camera off and you're allowed to stay silent
+- Try to keep to a principle of "what's said in Craft Chat stays in Craft Chat". Use your best judgement and discretion about what information people might be comfortable with you sharing.
+- Due to the openness of the group, you can't assume anything you say here is private. Sorry.
+- We'll do our best to respond to any issues proportionately and appropriately, keeping in mind our stated goals for this group.
 
 ## The Paradox of Tolerance
 
 This space is cognizant of the [Paradox of Tolerance][tolerance]. Intolerance is not tolerated here. If you wish to debate this principle there are many forums and chat boards available elsewhere online for your perusal and enjoyment, but this is not the place.
+
+We prioritise marginalized people’s safety over privileged people’s comfort. We will not act on complaints regarding:
+- "Reverse"-isms, including "reverse racism," "reverse sexism," and "cisphobia"
+- Reasonable communication of boundaries, such as "leave me alone," "go away," or "I’m not discussing this with you."
+- Communicating in a "tone" you don’t find congenial
+- Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+
+[This section rephrased from Witchat slack group][witchat]
 
 ## Groups of people who are welcome
 
@@ -33,4 +46,16 @@ The crafting community tends to skew towards white, cis, upper-middle class wome
 
 This includes stating or implying that the pandemic is over, and speaking about the pandemic in the past tense. These beliefs are currently socially dominant but are still obviously untrue, and are not up for debate. The panemic isn't over, it's just no longer being mitigated or tracked. The decisions you make in these global circumstances are your own to make, but denying they exist is not okay here. This group lives firmly in our shared reality and believes in the possibility and feasibility of an equitable collective outcome for this ongoing crisis.
 
+## Background Reading
+
+Here's some things we've read about how to go about crafting and enforcing policies and codes of conduct which inform our approach.
+
+- [So You've Got Yourself a Policy. Now What?][policy-now-what]
+
+<!-- Links -->
+
 [tolerance]: https://en.wikipedia.org/wiki/Paradox_of_tolerance#:~:text=The%20paradox%20of%20tolerance%20states,or%20destroyed%20by%20the%20intolerant.
+
+[witchat]: https://witchat.github.io/#codeofconduct
+
+[policy-now-what]: https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/
