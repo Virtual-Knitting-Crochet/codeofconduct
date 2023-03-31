@@ -14,18 +14,6 @@ We will describe the kind of social space we wish to create and maintain. People
 - Due to the openness of the group, you can't assume anything you say here is private. Sorry.
 - We'll do our best to respond to any issues proportionately and appropriately, keeping in mind our stated goals for this group.
 
-## The Paradox of Tolerance
-
-This space is cognizant of the [Paradox of Tolerance][tolerance]. Intolerance is not tolerated here. If you wish to debate this principle there are many forums and chat boards available elsewhere online for your perusal and enjoyment, but this is not the place.
-
-We prioritise marginalized people’s safety over privileged people’s comfort. We will not act on complaints regarding:
-- "Reverse"-isms, including "reverse racism," "reverse sexism," and "cisphobia"
-- Reasonable communication of boundaries, such as "leave me alone," "go away," or "I’m not discussing this with you."
-- Communicating in a "tone" you don’t find congenial
-- Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
-
-[This section rephrased from Witchat slack group][witchat]
-
 ## Groups of people who are welcome
 
 Any and all marginalised groups. This includes but is not limited to people who are:
@@ -42,9 +30,21 @@ We can't list every kind of oppressed person here, but you get the idea. If you 
 
 The crafting community tends to skew towards white, cis, upper-middle class women. So although not classically thought of as a marginalised group, men can sometimes be made to feel unwelcome in crafting spaces. This can be especially true for men in other marginalised groups. All men are explicitly welcome here.
 
-## Covid Denialism Will Not Be Tolerated
+## The Paradox of Tolerance
 
-This includes stating or implying that the pandemic is over, and speaking about the pandemic in the past tense. These beliefs are currently socially dominant but are still obviously untrue, and are not up for debate. The panemic isn't over, it's just no longer being mitigated or tracked. The decisions you make in these global circumstances are your own to make, but denying they exist is not okay here. This group lives firmly in our shared reality and believes in the possibility and feasibility of an equitable collective outcome for this ongoing crisis.
+This space is cognizant of the [Paradox of Tolerance][tolerance]. Intolerance is not tolerated here. If you wish to debate this principle there are many forums and chat boards available elsewhere online for your perusal and enjoyment, but this is not the place.
+
+We prioritise marginalized people’s safety over privileged people’s comfort. We will not act on complaints regarding:
+- "Reverse"-isms, including "reverse racism," "reverse sexism," and "cisphobia"
+- Reasonable communication of boundaries, such as "leave me alone," "go away," or "I’m not discussing this with you."
+- Communicating in a "tone" you don’t find congenial
+- Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+
+[This section rephrased from Witchat slack group][witchat]
+
+## Covid Denialism
+
+Covid denialism is not allowed. This includes stating or implying that the pandemic is over, and speaking about the pandemic in the past tense. These beliefs are currently socially dominant but are still obviously untrue, and are not up for debate. The panemic isn't over, it's just no longer being mitigated or tracked. The decisions you make in these global circumstances are your own to make, but denying they exist is not okay here. This group lives firmly in our shared reality and believes in the possibility and feasibility of an equitable collective outcome for this ongoing crisis.
 
 ## Background Reading
 
