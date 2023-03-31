@@ -5,7 +5,7 @@ We aim to balance our goals of ensuring this space is safe while also not lettin
 We will describe the kind of social space we wish to create and maintain. People who we feel are behaving in ways that are not conducive to this goal will be asked to change their behaviour. If necessary, they'll be asked to leave. The safety, comfort, and fairness of the group will always be our top priority. These guidelines are simply one tool to achieve that, not the end goal itself.
 
 - Crafting is a fundamental human activity which everyone has a right to. We've been doing this for thousands of years across the whole world, so we're _all_ new to it. Gatekeeping is not only wrong, it just doesn't make any sense.
-- We criticise products and techniques, but not each other. Yarn snobbery is allowed, but without passing judgement on fellow crafters.
+- We criticise products and techniques, not each other. Yarn snobbery is allowed, but without passing judgement on fellow crafters.
 - Everyone is welcome, and this welcomeness will be actively defended on your behalf if needed. You're not just allowed to enter, you're also allowed to be safe here.
 
 ## The Paradox of Tolerance
