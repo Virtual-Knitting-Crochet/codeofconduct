@@ -26,7 +26,7 @@ We can't list every kind of oppressed person here, but you get the idea. If you 
 
 ### Men
 
-The crafting community tends to skew towards white, cis, upper-middle class women. So, although not classically thought of as a marginalised group, men can sometimes feel unwelcome in crafting spaces. This can be especially true for men in marginalised groups. All men are explicitly welcome here.
+The crafting community tends to skew towards white, cis, upper-middle class women. So although not classically thought of as a marginalised group, men can sometimes feel unwelcome in crafting spaces. This can be especially true for men in other marginalised groups. All men are explicitly welcome here.
 
 ## Covid Denialism Will Not Be Tolerated
 
