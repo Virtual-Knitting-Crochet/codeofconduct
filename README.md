@@ -17,7 +17,7 @@ This space is cognizant of the [Paradox of Tolerance][tolerance]. Intolerance is
 Any and all marginalised groups. This includes but is not limited to people who are:
 - disabled
 - chronically ill
-- racialised or minoritised
+- racialised and minoritised
 - trans, nonbinary, and gender non-conforming
 - working class, welfare class, and impoverished
 
