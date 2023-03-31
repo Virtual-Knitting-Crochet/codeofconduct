@@ -19,6 +19,7 @@ Any and all marginalised groups. This includes but is not limited to people who 
 - chronically ill
 - racialised and minoritised
 - trans, nonbinary, and gender non-conforming
+- neurodivergent
 - working class, welfare class, and impoverished
 
 We can't list every kind of oppressed person here, but you get the idea. If you feel another group should be explicitly on this list, let us know.
