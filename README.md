@@ -10,7 +10,7 @@ We will describe the kind of social space we wish to create and maintain. People
 - Everyone is welcome, and this welcomeness will be actively defended on your behalf if needed. You're not just allowed to enter, you're also allowed to be safe here.
 - You're allowed to use a pseudonym
 - All aspects of participation are voluntary: You're allowed to keep your camera off and you're allowed to stay silent
-- Try to keep to a principle of "what's said in Craft Chat stays in Craft Chat". Use your best judgement and discretion about what information people might be comfortable with you sharing.
+- Try to keep to a principle of "what's said in Craft Chat stays in Craft Chat". Use your best judgement and discretion about what information people might be comfortable with you sharing about them elsewhere.
 - Due to the openness of the group, you can't assume anything you say here is private. Sorry.
 - We'll do our best to respond to any issues proportionately and appropriately, keeping in mind our stated goals for this group.
 
