@@ -20,7 +20,7 @@ Any and all marginalised groups. This includes but is not limited to people who 
 - disabled
 - chronically ill
 - racialised and minoritised
-- trans, nonbinary, and gender non-conforming
+- queer, trans, nonbinary, and gender non-conforming
 - neurodivergent
 - working class, recieving welfare payments, and impoverished
 
@@ -30,7 +30,7 @@ We can't list every kind of oppressed person here, but you get the idea. If you 
 
 The crafting community tends to skew towards white, cis, upper-middle class women. So although not classically thought of as a marginalised group, men can sometimes be made to feel unwelcome in crafting spaces. This can be especially true for men in other marginalised groups. All men are explicitly welcome here.
 
-## The Paradox of Tolerance
+## Reverse-isms and the Paradox of Tolerance
 
 This space is cognizant of the [Paradox of Tolerance][tolerance]. Intolerance is not tolerated here. If you wish to debate this principle there are many forums and chat boards available elsewhere online for your perusal and enjoyment, but this is not the place.
 
@@ -50,7 +50,7 @@ These beliefs are currently socially dominant but are still obviously untrue, an
 
 ## Background Reading
 
-Here's some things we've read about how to go about crafting and enforcing policies and codes of conduct which inform our approach.
+Here's some things we've read about how to go about writing and enforcing policies and codes of conduct which inform our approach.
 
 - [So You've Got Yourself a Policy. Now What?][policy-now-what]
 
