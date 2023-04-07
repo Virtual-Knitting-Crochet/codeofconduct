@@ -20,6 +20,7 @@ Any and all marginalised groups. This includes but is not limited to people who 
 - disabled
 - chronically ill
 - racialised and minoritised
+- fat/large/plus size
 - queer, trans, nonbinary, and gender non-conforming
 - neurodivergent
 - working class, recieving welfare payments, and impoverished
